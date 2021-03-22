@@ -1,2 +1,2 @@
 cache/*
-**/__py
+**/__pycache__/*
